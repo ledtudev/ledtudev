@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Hello! I’m Lê Đình Tú, a Frontend Developer from Vietnam. I’m passionate about creating intuitive user interfaces and enhancing user experiences with my skills in HTML, CSS, and JavaScript.</p>
+<p align="left">Hello! I’m Lê Đình Tú, a Fullstack Developer from Vietnam. I’m passionate about creating intuitive user interfaces and enhancing user experiences with my skills in HTML, CSS, and JavaScript.</p>
 
 ###
 
