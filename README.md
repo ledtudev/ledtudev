@@ -1,70 +1,92 @@
-<h1 align="left">Hey 👋 What's up?</h1>
-
-###
-
-<p align="left">Hello! I’m Lê Đình Tú, a Fullstack Developer from Vietnam. I’m passionate about creating intuitive user interfaces and enhancing user experiences with my skills in HTML, CSS, and JavaScript.</p>
-
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently on my journey to become DevOps engineer<br>🎯 Goals: To merge my skills in coding with my creative interests<br>🎲 **Fun fact:** I’m passionate about reading stories and playing board games! I also manage a TikTok channel with 19k followers, where I share insights on manga, manhwa, and novels.</p>
-
-###
-
-<h2 align="left">I code with</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" height="40" alt="Go"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
-  <img width="12" />
-
-</div>
-
-###
-
-<h2 align="left">Contact me</h2>
-
-###
-
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-<!--   <a href="https://web.facebook.com/heydarliiiiiiing" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
-  </a> -->
-  <a href="tudinhle100@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-</div>
-
-###
-
-###
-
 <div align="center">
-  <img height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW1nZmozb2VsMjFyOXEydzVuMHh3Y3RsY2hhdmt4a2FwenNxcXlibiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wvF9tTPPW0pcQ/giphy.gif"  />
-</div>
 
-###
+<!-- PIXEL HEADER -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/render?type=pixel&color=00d2a0&height=150&section=header&text=MISSION%20START&fontSize=70&animation=fadeIn">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/render?type=pixel&color=4169E1&height=150&section=header&text=MISSION%20START&fontSize=70&animation=fadeIn">
+  <img src="https://capsule-render.vercel.app/render?type=pixel&color=auto&height=150&section=header&text=MISSION%20START&fontSize=70">
+</picture>
+
+<br/>
+
+<!-- PIXEL GITHUB STATS - RAINBOW THEME WITH CRT EFFECT -->
+<a href="https://github.com/heydarliiiiiing">
+  <img src="https://pixel-profile.vercel.app/api/github-stats?username=heydarliiiiiing&theme=rainbow&screen_effect=true&pixelate_avatar=true" alt="Muc's Pixel Stats" />
+</a>
+
+<br/>
+
+<p align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3N2ZHpwa3U4eHh3YmJ1d3pxNTRyeHh3YmJ1d3pxNTRyeHh3YmJ1d3pxJmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/LpALgGQNZoS8E/giphy.gif" width="100"/>
+  <br/>
+  <b>[ PLAYER 1: MUC ]</b><br/>
+  <b>LEVEL: 99 FULLSTACK DEVELOPER | CLASS: Omnistack</b>
+</p>
+
+---
+
+### 🕹️ TERMINAL STATUS
+
+```text
+> SYSTEM_LOC: HANOI, VIETNAM
+> CURRENT_QUEST: BUILDING AI DOMAINS
+> STATUS: ONLINE [BUGS EXIST,CODED ALL NIGHT]
+```
+
+---
+
+### 🧰 SKILL TREE (PIXEL EDITION)
+
+#### 💠 CORE LANGUAGES
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+</p>
+
+#### ⚔️ WORKBENCH
+<p align="center">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-05998B?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+</p>
+
+#### 📂 DATA STORAGE
+<p align="center">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Weaviate-00D2A0?style=flat-square&logo=weaviate&logoColor=white" />
+</p>
+
+#### ⚙️ INFRASTRUCTURE
+<p align="center">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
+</p>
+
+---
+
+### 📥 TRANSMISSION (CONNECT)
+
+<p align="center">
+  <a href="mailto:tudinhle100@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.facebook.com/heydarliiiiiiing">
+    <img src="https://img.shields.io/badge/Facebook-3B5998?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+</p>
+
+<br/>
+
+<!-- CRT SCREEN FOOTER -->
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW1nZmozb2VsMjFyOXEydzVuMHh3Y3RsY2hhdmt4a2FwenNxcXlibiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wvF9tTPPW0pcQ/giphy.gif" width="300" />
+
+<p align="center">🕹️ <i>Game Over? No, just the beginning.</i> 🕹️</p>
+
+</div>
