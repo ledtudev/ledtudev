@@ -2,7 +2,7 @@
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=PLAYER+1%3A+MUC;LEVEL+99+OMNISTACK+DEV;STATUS%3A+CODED+ALL+NIGHT" alt="Player Info" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=PLAYER+1%3A+MUC;LEVEL+99+OMNISTACK+DEV;STATUS%3A+CODED+ALL+NIGHT" alt="Player Info"     style="pointer-events: none;"/>
     </td>
   </tr>
 </table>
@@ -55,7 +55,6 @@
 </table>
 
 <br/>
-<!-- 📡 CONNECT -->
 <h2>📡 CONNECT</h2>
 
 <p align="center">
