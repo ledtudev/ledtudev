@@ -18,12 +18,8 @@
   <tr>
     <td align="center" bgcolor="#1a1a1a">
       <br/>
-      <a href="https://github.com/heydarliiiiiing">
-        <img src="https://pixel-profile.vercel.app/api/github-stats?username=heydarliiiiiing&theme=rainbow&screen_effect=true&pixelate_avatar=true&background=1a1a1a" alt="Pixel Stats" />
-      </a>
-      <br/>
       <code>> LOC: HANOI, VIETNAM | QUEST: BUILDING AI DOMAINS</code>
-      <br/><br/>
+      <br/>
     </td>
   </tr>
 </table>
