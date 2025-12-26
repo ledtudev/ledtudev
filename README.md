@@ -17,7 +17,6 @@
 <table align="center">
   <tr>
     <td align="center" bgcolor="#1a1a1a">
-      <br/>
       <code>> LOC: HANOI, VIETNAM | QUEST: BUILDING AI DOMAINS</code>
       <br/>
     </td>
